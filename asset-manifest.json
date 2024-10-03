@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Nadsoft-task/static/css/main.c34523c8.css",
+    "main.js": "/Nadsoft-task/static/js/main.b3909ec5.js",
+    "static/js/453.e52305e5.chunk.js": "/Nadsoft-task/static/js/453.e52305e5.chunk.js",
+    "static/media/Photo.svg": "/Nadsoft-task/static/media/Photo.512a4424d8095eb078bd54e3532f11e0.svg",
+    "static/media/Map.svg": "/Nadsoft-task/static/media/Map.f642801f0dd99e60c26e5156b09e2a5d.svg",
+    "static/media/Logo2.svg": "/Nadsoft-task/static/media/Logo2.ed49fbd1494066978c578752457d87e7.svg",
+    "static/media/Hexes_copy.svg": "/Nadsoft-task/static/media/Hexes_copy.fb1667eca1591367be1e739d149492e9.svg",
+    "static/media/Logo.svg": "/Nadsoft-task/static/media/Logo.ec61b59db0c646562381c2aa9a1af587.svg",
+    "static/media/Hex_grey.svg": "/Nadsoft-task/static/media/Hex_grey.68638ea9dc5fe02e198c0b58c1e77edc.svg",
+    "static/media/Hex_copy.svg": "/Nadsoft-task/static/media/Hex_copy.d9a793fdebf968cc59f7adf417accbc7.svg",
+    "static/media/INSTA.svg": "/Nadsoft-task/static/media/INSTA.642b081e2c1452243a7bb64b369c24a0.svg",
+    "static/media/FB.svg": "/Nadsoft-task/static/media/FB.da1e54ceccfb196b6979005fe04db77b.svg",
+    "index.html": "/Nadsoft-task/index.html",
+    "static/media/Rectangle.svg": "/Nadsoft-task/static/media/Rectangle.8a18fdd891ab869008fc26f08c5af7c5.svg",
+    "main.c34523c8.css.map": "/Nadsoft-task/static/css/main.c34523c8.css.map",
+    "main.b3909ec5.js.map": "/Nadsoft-task/static/js/main.b3909ec5.js.map",
+    "453.e52305e5.chunk.js.map": "/Nadsoft-task/static/js/453.e52305e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c34523c8.css",
+    "static/js/main.b3909ec5.js"
+  ]
+}
