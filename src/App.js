@@ -1,17 +1,17 @@
-import First from "./components/1st";
-import Second from "./components/2nd";
-import Third from "./components/3rd";
-import Fourth from "./components/4th";
-import Fifth from "./components/5th";
+import Header from "./components/Header";
+import Second from "./components/whyChoose";
+import Third from "./components/NextStep";
+import Location from "./components/Location";
+import Footer from "./components/Footer";
 
 function App() {
   return (
     <>
-    <First/>
+    <Header/>
     <Second/>
     <Third/>
-    <Fourth/>
-    <Fifth/>
+    <Location/>
+    <Footer/>
     </>
   );
 }
